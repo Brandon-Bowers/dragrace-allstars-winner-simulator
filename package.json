@@ -1,0 +1,23 @@
+{
+  "name": "dragrace-allstars-winner-simulator",
+  "version": "1.0.0",
+  "description": "Drag Race Allstars Winner Predictor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandon-Bowers/dragrace-allstars-winner-simulator.git"
+  },
+  "author": "Brandon Bowers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandon-Bowers/dragrace-allstars-winner-simulator/issues"
+  },
+  "homepage": "https://github.com/Brandon-Bowers/dragrace-allstars-winner-simulator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "webpack": "^5.49.0"
+  }
+}
